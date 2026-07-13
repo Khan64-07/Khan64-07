@@ -1,0 +1,26 @@
+<svg viewBox="0 0 160 90" width="160" height="90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Luna creciente animada con estrellas parpadeando">
+  <defs>
+    <mask id="moonMask">
+      <rect x="0" y="0" width="160" height="90" fill="#ffffff"/>
+      <circle cx="79" cy="35" r="15" fill="#000000"/>
+    </mask>
+  </defs>
+
+  <circle cx="70" cy="42" r="16" fill="#9a9a9a" mask="url(#moonMask)"/>
+
+  <circle cx="118" cy="18" r="1.6" fill="#9a9a9a">
+    <animate attributeName="opacity" values="0;1;0" dur="3.2s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="132" cy="34" r="1.2" fill="#9a9a9a">
+    <animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="108" cy="46" r="1" fill="#9a9a9a">
+    <animate attributeName="opacity" values="0;1;0" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="138" cy="12" r="1" fill="#9a9a9a">
+    <animate attributeName="opacity" values="0;1;0" dur="3.6s" begin="1.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="95" cy="14" r="0.9" fill="#9a9a9a">
+    <animate attributeName="opacity" values="0;1;0" dur="3.9s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
