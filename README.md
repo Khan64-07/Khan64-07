@@ -1,75 +1,127 @@
-# <p align="center">✦ 𝙆𝙝𝙖𝙣𝙆𝙞𝙣𝙜𝙙𝙤𝙢 // 𝙇𝙚𝙫𝙚𝙡 19 ✦</p>
+<!--
+  README de perfil — Khan64-07
+  Concepto: el perfil se presenta como una sesión de terminal.
+  Cada bloque plegable (<details>) es un "comando" que se abre al pulsarlo.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=450&lines=%5B+%E2%97%86+system+loaded+%5D;%5B+%E2%97%86+playing+chess+with+fate+%5D;%5B+%E2%97%86+training+until+failure+%5D;%5B+%E2%97%86+breaking+boundaries+%5D" alt="Typing Banner" />
-</p>
+  ✏️ EDITAR: busca este símbolo en los comentarios — son los puntos donde
+  deberías volver con el tiempo (nuevas skills, proyectos, contacto, etc.)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="0" height="0" /> <!-- Empty spacer -->
-</p>
+  Nota técnica: las imágenes usan <picture> con prefers-color-scheme para
+  que se vean bien tanto en el tema claro como en el oscuro de GitHub,
+  y todas tienen fondo transparente — nada de rectángulos de color pisando
+  la página. El único asset propio es assets/moon.svg (súbelo a esa ruta
+  en la raíz del repo para que la sección "mood.log" funcione).
+-->
 
----
+<div align="center">
 
-### <p align="center">♟️ 𝙎𝙏𝘼𝙏𝙐𝙎 // 𝘼𝘾𝙏𝙄𝙑𝙀 𝙋𝙍𝙊𝙁𝙄𝙇𝙀</p>
+```text
+[ ok ] loading profile: khan64-07
+[ ok ] status: building fundamentals
+[....] next boot → javascript · c++ · sql
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khan64-07&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=333333&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan64-07&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=333333&hide_border=false" width="48%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami;%3E%20estudiante%20%C2%B7%2019%20a%C3%B1os%20%C2%B7%20esp%C3%B1a;khan64-07%40dev%3A~%24%20cat%20status.log;%3E%20aprendiendo%20python%20%2B%20git;khan64-07%40dev%3A~%24%20./next_level.sh;%3E%20javascript%20%C2%B7%20c%2B%2B%20%C2%B7%20sql">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=1a1a1a&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami;%3E%20estudiante%20%C2%B7%2019%20a%C3%B1os%20%C2%B7%20esp%C3%B1a;khan64-07%40dev%3A~%24%20cat%20status.log;%3E%20aprendiendo%20python%20%2B%20git;khan64-07%40dev%3A~%24%20./next_level.sh;%3E%20javascript%20%C2%B7%20c%2B%2B%20%C2%B7%20sql">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami" alt="terminal typing animation" width="560">
+</picture>
 
----
+<sub>19 años · España · aprendiendo a programar, un commit a la vez</sub>
 
-### <p align="center">⚔️ 𝙂𝙀𝘼𝙍 // 𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝙊𝙂𝙄𝙀𝙎</p>
-
-<p align="center">
-  <sub>LENGUAJES EQUIPADOS</sub><br/>
-  <code><b>PYTHON</b></code> &nbsp;▪&nbsp; 
-  <code><b>GIT</b></code> &nbsp;▪&nbsp; 
-  <code><b>MARKDOWN</b></code>
-</p>
-
-<p align="center">
-  <sub>DESBLOQUEANDO EN EL ÁRBOL DE HABILIDADES</sub><br/>
-  <code><b>JAVASCRIPT</b></code> &nbsp;▪&nbsp; 
-  <code><b>C++</b></code> &nbsp;▪&nbsp; 
-  <code><b>SQL</b></code>
-</p>
+</div>
 
 ---
 
-### <p align="center">🦾 𝙒𝙊𝙍𝙆𝙊𝙐𝙏 & 𝙈𝙄𝙉𝘿𝙎𝙀𝙏</p>
+<details>
+<summary><code>$ cat about.md</code></summary>
+<br>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none; vertical-align: top;">
-      <h4>🥋 𝙀𝙉𝙏𝙍𝙀𝙉𝘼𝙈𝙄𝙀𝙉𝙏𝙊</h4>
-      <ul>
-        <li><b>Calistenia & Gym:</b> Forjando fuerza cruda (estilo <i>Toji Fushiguro</i>).</li>
-        <li><b>Baloncesto & Fútbol:</b> Velocidad y reacción sin límites en la cancha (estilo <i>Aomine Daiki</i>).</li>
-      </ul>
-    </td>
-    <td width="50%" style="border: none; vertical-align: top;">
-      <h4>♟️ 𝙀𝙎𝙏𝙍𝘼𝙏𝙀𝙂𝙄𝘼</h4>
-      <ul>
-        <li><b>Ajedrez:</b> Táctica silenciosa, anticipación y control total del tablero.</li>
-        <li><b>Filosofía:</b> Avanzar sin miedo, como la mirada de un rey indomable (<i>Grimmjow / Shanks</i>).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Empecé hace muy poco: cuenta configurada, primeras líneas en Python y ya
+perdiendo horas en la terminal por gusto. No hay atajos — voy entendiendo
+cada cosa desde la base antes de pasar a la siguiente. Este README es,
+literalmente, mi `git log` como estudiante: cambia de forma en cuanto
+tengo algo nuevo que contar.
+
+<!-- ✏️ EDITAR: cuando tengas más claro tu enfoque (web, datos, backend, juegos...) cuéntalo aquí -->
+
+</details>
+
+### `$ ls ./skills`
+
+```text
+skills/
+├── ready/
+│   ├── python
+│   ├── git
+│   └── markdown
+└── building/
+    ├── javascript      # + librerías, por decidir
+    ├── cpp
+    └── sql
+```
+
+<!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
+     Añade librerías concretas en cuanto las elijas (numpy, pandas, react...) -->
+
+### `$ cat roadmap.todo`
+
+- [x] Fundamentos de Python
+- [x] Git y control de versiones
+- [ ] JavaScript + librerías
+- [ ] Librerías de Python (datos / automatización)
+- [ ] C++
+- [ ] SQL y bases de datos
+- [ ] Primer proyecto completo publicado
+
+<!-- ✏️ EDITAR: marca lo que vayas completando, añade filas nuevas cuando te propongas otra meta -->
 
 ---
 
-### <p align="center">⚡ 𝘾𝙃𝘼𝙊𝙎 // 𝙈𝙄𝙉𝙄𝙈𝘼𝙇 𝘼𝙉𝙄𝙈𝙀 𝙑𝙄𝘽𝙀𝙎</p>
+<details>
+<summary><code>$ git log --graph --activity</code></summary>
+<br>
 
-<p align="center">
-  <i>"¿Quién decide los límites? Yo los rompo."</i><br/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&color=888888&center=true&vCenter=true&width=500&lines=%E2%9E%A2+Pantera+desatada+(Grimmjow);%E2%9E%A2+Sin+energ%C3%ADa+maldita%2C+solo+fuerza+pura+(Toji);%E2%9E%A2+La+zona+es+mi+territorio+(Aomine);%E2%9E%A2+La+nueva+era+pertenece+al+cambio+(Shanks)" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=1a1a1a&line=1a1a1a&point=1a1a1a&area=false&hide_border=true&hide_title=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&hide_title=true" alt="gráfico de actividad" width="760">
+</picture>
+
+</div>
+
+</details>
+
+<details>
+<summary><code>$ cat mood.log</code></summary>
+<br>
+
+<div align="center">
+
+<img src="assets/moon.svg" alt="luna creciente animada con estrellas" width="150">
+
+<sub>sesiones de código nocturnas con maratón de anime de fondo<br>el modo enfoque se activa después de medianoche</sub>
+
+</div>
+
+</details>
+
+<details>
+<summary><code>$ cat contact.txt</code></summary>
+<br>
+
+Por ahora, GitHub es el mejor sitio para encontrarme.
+
+<!-- ✏️ EDITAR: añade aquí LinkedIn, correo, portfolio, etc. cuando los tengas.
+     Ejemplo:
+     [LinkedIn](https://linkedin.com/in/tu-usuario) · [Correo](mailto:tu@correo.com) -->
+
+</details>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khan64-07&color=111111&style=flat-square&label=CONNECTION_COUNT" alt="Visitor Count" />
-</p>
+<div align="center">
+<sub>este archivo cambia a medida que yo cambio · última edición: julio 2026</sub>
+</div>
