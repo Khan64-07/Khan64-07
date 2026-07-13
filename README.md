@@ -1,66 +1,75 @@
-# 👋 ¡Hola, soy Khan64-07! 
+# <p align="center">✦ 𝙆𝙝𝙖𝙣𝙆𝙞𝙣𝙜𝙙𝙤𝙢 // 𝙇𝙚𝙫𝙚𝙡 19 ✦</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=A9FF1C&center=true&vCenter=true&width=500&lines=Estudiante+de+Software+%E2%9C%A8;Explorador+del+Código+%F0%9F%8C%90;Loading+Future+Developer...;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6+%F0%9F%8D%A5" alt="Typing SVG" />
-</p>
-
----
-
-### 🌌 Un poco sobre mí...
-
-```text
-🥋 Edad: 19 años
-🎯 Enfoque Actual: Dominar las bases y construir proyectos reales.
-🌀 Filosofía: "Si no te gusta tu destino, no lo aceptes. En su lugar, ten el valor para cambiarlo."
-```
-
-*   🌱 Actualmente aprendiendo a moverme con soltura en el ecosistema del desarrollo de software.
-*   ⚡ Me encanta la estética minimalista, el anime y resolver problemas lógicos a través del código.
-*   🚀 Buscando constantemente nuevas librerías y tecnologías para expandir mi "sistema de habilidades".
-
----
-
-### ⚔️ Sistema de Habilidades (Skills)
-
-#### 🛡️ Equipadas Actualmente
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-#### 📜 Pergaminos de Aprendizaje (Próximamente / En Progreso)
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
-
----
-
-### 📊 Estado del Servidor (GitHub Stats)
-
-Aquí puedes ver cómo evoluciona mi aventura en tiempo real. ¡Cada commit cuenta como experiencia!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khan64-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Khan64-07" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan64-07&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=450&lines=%5B+%E2%97%86+system+loaded+%5D;%5B+%E2%97%86+playing+chess+with+fate+%5D;%5B+%E2%97%86+training+until+failure+%5D;%5B+%E2%97%86+breaking+boundaries+%5D" alt="Typing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khan64-07&theme=tokyonight&hide_border=true" alt="Racha de Commits" width="98%" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="0" height="0" /> <!-- Empty spacer -->
 </p>
 
 ---
 
-### 🎏 Nivel de Energía Actual
-```text
-[▓▓▓▓░░░░░░░░░░░░░░░░░░░░░] 19% de Potencial Desbloqueado (19 años)
-⚡ Aprendiendo JavaScript...
-```
+### <p align="center">♟️ 𝙎𝙏𝘼𝙏𝙐𝙎 // 𝘼𝘾𝙏𝙄𝙑𝙀 𝙋𝙍𝙊𝙁𝙄𝙇𝙀</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khan64-07&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=333333&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan64-07&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=333333&hide_border=false" width="48%" />
+</p>
+
+---
+
+### <p align="center">⚔️ 𝙂𝙀𝘼𝙍 // 𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝙊𝙂𝙄𝙀𝙎</p>
+
+<p align="center">
+  <sub>LENGUAJES EQUIPADOS</sub><br/>
+  <code><b>PYTHON</b></code> &nbsp;▪&nbsp; 
+  <code><b>GIT</b></code> &nbsp;▪&nbsp; 
+  <code><b>MARKDOWN</b></code>
+</p>
+
+<p align="center">
+  <sub>DESBLOQUEANDO EN EL ÁRBOL DE HABILIDADES</sub><br/>
+  <code><b>JAVASCRIPT</b></code> &nbsp;▪&nbsp; 
+  <code><b>C++</b></code> &nbsp;▪&nbsp; 
+  <code><b>SQL</b></code>
+</p>
+
+---
+
+### <p align="center">🦾 𝙒𝙊𝙍𝙆𝙊𝙐𝙏 & 𝙈𝙄𝙉𝘿𝙎𝙀𝙏</p>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none; vertical-align: top;">
+      <h4>🥋 𝙀𝙉𝙏𝙍𝙀𝙉𝘼𝙈𝙄𝙀𝙉𝙏𝙊</h4>
+      <ul>
+        <li><b>Calistenia & Gym:</b> Forjando fuerza cruda (estilo <i>Toji Fushiguro</i>).</li>
+        <li><b>Baloncesto & Fútbol:</b> Velocidad y reacción sin límites en la cancha (estilo <i>Aomine Daiki</i>).</li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none; vertical-align: top;">
+      <h4>♟️ 𝙀𝙎𝙏𝙍𝘼𝙏𝙀𝙂𝙄𝘼</h4>
+      <ul>
+        <li><b>Ajedrez:</b> Táctica silenciosa, anticipación y control total del tablero.</li>
+        <li><b>Filosofía:</b> Avanzar sin miedo, como la mirada de un rey indomable (<i>Grimmjow / Shanks</i>).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <p align="center">⚡ 𝘾𝙃𝘼𝙊𝙎 // 𝙈𝙄𝙉𝙄𝙈𝘼𝙇 𝘼𝙉𝙄𝙈𝙀 𝙑𝙄𝘽𝙀𝙎</p>
+
+<p align="center">
+  <i>"¿Quién decide los límites? Yo los rompo."</i><br/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&color=888888&center=true&vCenter=true&width=500&lines=%E2%9E%A2+Pantera+desatada+(Grimmjow);%E2%9E%A2+Sin+energ%C3%ADa+maldita%2C+solo+fuerza+pura+(Toji);%E2%9E%A2+La+zona+es+mi+territorio+(Aomine);%E2%9E%A2+La+nueva+era+pertenece+al+cambio+(Shanks)" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khan64-07&color=lightgrey&style=flat-square&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Khan64-07&color=111111&style=flat-square&label=CONNECTION_COUNT" alt="Visitor Count" />
 </p>
