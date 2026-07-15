@@ -9,8 +9,9 @@
   Nota técnica: las imágenes usan <picture> con prefers-color-scheme para
   que se vean bien tanto en el tema claro como en el oscuro de GitHub,
   y todas tienen fondo transparente — nada de rectángulos de color pisando
-  la página. El único asset propio es assets/moon.svg (súbelo a esa ruta
-  en la raíz del repo para que la sección "mood.log" funcione).
+  la página. Assets propios (súbelos a esas rutas en la raíz del repo):
+  assets/moon.svg    → sección "mood.log"
+  assets/six-code.svg → sección "about.md" (columna derecha)
 -->
 
 <div align="center">
@@ -33,9 +34,13 @@
 
 ---
 
-<details>
+<details open>
 <summary><code>$ cat about.md</code></summary>
 <br>
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 Empecé hace muy poco: cuenta configurada, primeras líneas en Python y ya
 perdiendo horas en la terminal por gusto. No hay atajos — voy entendiendo
@@ -44,6 +49,15 @@ literalmente, mi `git log` como estudiante: cambia de forma en cuanto
 tengo algo nuevo que contar.
 
 <!-- ✏️ EDITAR: cuando tengas más claro tu enfoque (web, datos, backend, juegos...) cuéntalo aquí -->
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="assets/six-code.svg" alt="6 animado formado por caracteres de código" width="130">
+
+</td>
+</tr>
+</table>
 
 </details>
 
