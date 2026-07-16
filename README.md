@@ -12,6 +12,7 @@
   la página. Assets propios (súbelos a esas rutas en la raíz del repo):
   assets/moon.svg    → sección "mood.log"
   assets/six-code.svg → sección "about.md" (columna derecha)
+  assets/roadmap.gif → sección "roadmap.todo" (columna derecha)
 -->
 
 <div align="center">
@@ -80,6 +81,8 @@ skills/
 
 ### `$ cat roadmap.todo`
 
+<img align="right" src="assets/roadmap.gif" alt="animación decorativa de diamante" width="150">
+
 - [x] Fundamentos de Python
 - [x] Git y control de versiones
 - [ ] JavaScript + librerías
@@ -89,6 +92,8 @@ skills/
 - [ ] Primer proyecto completo publicado
 
 <!-- ✏️ EDITAR: marca lo que vayas completando, añade filas nuevas cuando te propongas otra meta -->
+
+<br clear="right">
 
 ---
 
