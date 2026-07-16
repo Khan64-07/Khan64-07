@@ -53,7 +53,7 @@ tengo algo nuevo que contar.
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="assets/six-code.gif" alt="6 animado formado por caracteres de código" width="130">
+<img src="assets/six-code.svg" alt="6 animado formado por caracteres de código" width="130">
 
 </td>
 </tr>
