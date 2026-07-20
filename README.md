@@ -67,13 +67,16 @@ tengo algo nuevo que contar.
 ```text
 skills/
 ├── ready/
-│   ├── python
+│   ├── python          # + librerías, frameworks, etc.
 │   ├── git
-│   └── markdown
+│   ├── markdown
 └── building/
     ├── javascript      # + librerías, por decidir
-    ├── cpp
-    └── sql
+    ├── typescript
+    ├── sql
+    ├── java
+    ├── go (golang)
+    └── c++
 ```
 
 <!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
