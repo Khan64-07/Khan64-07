@@ -83,9 +83,10 @@ skills/
 <!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
      Añade librerías concretas en cuanto las elijas (numpy, pandas, react...) -->
 
-<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="310" hspace="120" vspace="160">
 
 ### `$ cat roadmap.todo`
+
+<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="300" hspace="120" vspace="220">
 
 - [x] Fundamentos de Python
 - [x] Git y control de versiones
