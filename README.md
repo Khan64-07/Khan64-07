@@ -69,6 +69,7 @@ skills/
 ├── ready/
 │   ├── python          # + librerías, frameworks, etc.
 │   ├── git
+|   ├── dsa
 │   └── markdown
 └── building/
     ├── javascript      # + librerías, por decidir
@@ -82,17 +83,21 @@ skills/
 <!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
      Añade librerías concretas en cuanto las elijas (numpy, pandas, react...) -->
 
-<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="260" hspace="140">
 
 ### `$ cat roadmap.todo`
 
+<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="260" hspace="140">
+
 - [x] Fundamentos de Python
 - [x] Git y control de versiones
-- [ ] JavaScript + librerías                  
 - [ ] Librerías de Python (datos / automatización)
-- [ ] C++
+- [ ] JavaScript + librerías
+- [ ] TypeScript (dominio sobre JavaScript)                  
 - [ ] SQL y bases de datos
+- [ ] Java / GO
+- [ ] C++
 - [ ] Primer proyecto completo publicado
+- [ ] Primera contibución open-source
 
 <!-- ✏️ EDITAR: marca lo que vayas completando, añade filas nuevas cuando te propongas otra meta -->
 
