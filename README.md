@@ -86,7 +86,7 @@ skills/
 
 ### `$ cat roadmap.todo`
 
-<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="260" hspace="140">
+<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="310" hspace="140">
 
 - [x] Fundamentos de Python
 - [x] Git y control de versiones
