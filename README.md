@@ -83,7 +83,7 @@ skills/
 <!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
      Añade librerías concretas en cuanto las elijas (numpy, pandas, react...) -->
 
-<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="330" hspace="110">
+<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="325" hspace="105">
 
 ### `$ cat roadmap.todo`
 
