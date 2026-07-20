@@ -69,7 +69,7 @@ skills/
 ├── ready/
 │   ├── python          # + librerías, frameworks, etc.
 │   ├── git
-│   ├── markdown
+│   └── markdown
 └── building/
     ├── javascript      # + librerías, por decidir
     ├── typescript
