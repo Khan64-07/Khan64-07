@@ -20,7 +20,7 @@
 ```text
 [ ok ] loading profile: khan64-07
 [ ok ] status: building fundamentals
-[....] next boot → javascript · c++ · sql
+[....] next boot → sql · javascript · typescript
 ```
 
 <picture>
@@ -82,23 +82,6 @@ skills/
 
 <!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
      Añade librerías concretas en cuanto las elijas (numpy, pandas, react...) -->
-
-<img align="right" src="assets/diamond.gif" alt="animación decorativa de diamante" width="325" hspace="105">
-
-### `$ cat roadmap.todo`
-
-- [x] Fundamentos de Python
-- [x] Git y control de versiones
-- [ ] Librerías de Python (datos / automatización)
-- [ ] JavaScript + librerías
-- [ ] TypeScript (dominio sobre JavaScript)                  
-- [ ] SQL y bases de datos
-- [ ] Java / GO
-- [ ] C++
-- [ ] Primer proyecto completo publicado
-- [ ] Primera contibución open-source
-
-<!-- ✏️ EDITAR: marca lo que vayas completando, añade filas nuevas cuando te propongas otra meta -->
 
 <br clear="right">
 
