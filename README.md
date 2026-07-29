@@ -87,7 +87,7 @@ skills/
 
 ---
 
-<details>
+<details open>
 <summary><code>$ git log --graph --activity</code></summary>
 <br>
 
@@ -103,7 +103,7 @@ skills/
 
 </details>
 
-<details>
+<details open>
 <summary><code>$ cat mood.log</code></summary>
 <br>
 
@@ -117,7 +117,7 @@ skills/
 
 </details>
 
-<details>
+<details open>
 <summary><code>$ cat contact.txt</code></summary>
 <br>
 
