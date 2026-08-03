@@ -111,7 +111,7 @@ skills/
 
 <img src="assets/moon.svg" alt="luna creciente animada con estrellas" width="150">
 
-<sub>sesiones de código nocturnas con maratón de anime de fondo<br>el modo enfoque se activa después de medianoche</sub>
+<sub>"El código es como el humor. Cuando tienes que explicarlo, es malo".<br>— Cory House</sub>
 
 </div>
 
