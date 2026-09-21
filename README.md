@@ -72,9 +72,9 @@ skills/
 │   ├── dsa
 │   └── markdown
 └── building/
+    ├── sql
     ├── javascript      # + librerías, por decidir
     ├── typescript
-    ├── sql
     ├── java
     └── rust
 ```
