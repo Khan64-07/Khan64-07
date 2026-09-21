@@ -76,8 +76,7 @@ skills/
     ├── typescript
     ├── sql
     ├── java
-    ├── go (golang)
-    └── c++
+    └── rust
 ```
 
 <!-- ✏️ EDITAR: cuando domines algo de "building/", muévelo a "ready/".
