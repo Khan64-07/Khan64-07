@@ -24,9 +24,9 @@
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami;%3E%20estudiante%20%C2%B7%2019%20a%C3%B1os%20%C2%B7%20esp%C3%B1a;khan64-07%40dev%3A~%24%20cat%20status.log;%3E%20aprendiendo%20python%20%2B%20git;khan64-07%40dev%3A~%24%20./next_level.sh;%3E%20javascript%20%C2%B7%20c%2B%2B%20%C2%B7%20sql">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=1a1a1a&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami;%3E%20estudiante%20%C2%B7%2019%20a%C3%B1os%20%C2%B7%20esp%C3%B1a;khan64-07%40dev%3A~%24%20cat%20status.log;%3E%20aprendiendo%20python%20%2B%20git;khan64-07%40dev%3A~%24%20./next_level.sh;%3E%20javascript%20%C2%B7%20c%2B%2B%20%C2%B7%20sql">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami" alt="terminal typing animation" width="560">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=1a1a1a&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami" alt="khan64-07 whoami">
 </picture>
 
 <sub>19 años · España · aprendiendo a programar, un commit a la vez</sub>
@@ -69,7 +69,7 @@ skills/
 ├── ready/
 │   ├── python          # + librerías, frameworks, etc.
 │   ├── git
-|   ├── dsa
+│   ├── dsa
 │   └── markdown
 └── building/
     ├── javascript      # + librerías, por decidir
@@ -96,7 +96,7 @@ skills/
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&hide_title=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=1a1a1a&line=1a1a1a&point=1a1a1a&area=false&hide_border=true&hide_title=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&hide_title=true" alt="gráfico de actividad" width="760">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=1a1a1a&line=1a1a1a&point=1a1a1a&area=false&hide_border=true&hide_title=true" alt="gráfico de actividad de GitHub de Khan64-07">
 </picture>
 
 </div>
