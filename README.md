@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami" alt="khan64-07 whoami">
 </picture>
 
-<sub>19 años · España · aprendiendo a programar, un commit a la vez</sub>
+<sub>2007· España(Spain) · programmer, a commit at a time</sub>
 
 </div>
 
@@ -43,11 +43,10 @@
 <tr>
 <td width="65%" valign="top">
 
-Empecé hace muy poco: cuenta configurada, primeras líneas en Python y ya
-perdiendo horas en la terminal por gusto. No hay atajos — voy entendiendo
-cada cosa desde la base antes de pasar a la siguiente. Este README es,
-literalmente, mi `git log` como estudiante: cambia de forma en cuanto
-tengo algo nuevo que contar.
+I started just recently: account set up, first lines of Python written, and already
+happily losing hours in the terminal. There are no shortcuts—I’m grasping
+each concept from the ground up before moving on to the next. This README is,
+literally, my programmer `git log`: it evolves whenever I have something new to share.
 
 <!-- ✏️ EDITAR: cuando tengas más claro tu enfoque (web, datos, backend, juegos...) cuéntalo aquí -->
 
@@ -67,13 +66,13 @@ tengo algo nuevo que contar.
 ```text
 skills/
 ├── ready/
-│   ├── python          # + librerías, frameworks, etc.
+│   ├── python          # + libreries, frameworks, etc.
 │   ├── git
 │   ├── dsa
 │   └── markdown
 └── building/
     ├── sql
-    ├── javascript      # + librerías, por decidir
+    ├── javascript      # + libreries, to decide.
     ├── typescript
     ├── java
     └── rust
@@ -94,7 +93,7 @@ skills/
 
 <img src="assets/moon.svg" alt="luna creciente animada con estrellas" width="150">
 
-<sub>"El código es como el humor. Cuando tienes que explicarlo, es malo".<br>— Cory House</sub>
+<sub>"Code is like humor. When you have to explain it, it's bad.".<br>— Cory House</sub>
 
 </div>
 
@@ -104,8 +103,7 @@ skills/
 <summary><code>$ cat contact.txt</code></summary>
 <br>
 
-Por ahora, GitHub es el mejor sitio para encontrarme.
-
+For now, GitHub is the best place to find me.
 <!-- ✏️ EDITAR: añade aquí LinkedIn, correo, portfolio, etc. cuando los tengas.
      Ejemplo:
      [LinkedIn](https://linkedin.com/in/tu-usuario) · [Correo](mailto:tu@correo.com) -->
@@ -115,5 +113,5 @@ Por ahora, GitHub es el mejor sitio para encontrarme.
 ---
 
 <div align="center">
-<sub>este archivo cambia a medida que yo cambio · última edición: julio 2026</sub>
+<sub>This file changes as I change.</sub>
 </div>
