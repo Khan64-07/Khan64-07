@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=khan64-07%40dev%3A~%24%20whoami" alt="khan64-07 whoami">
 </picture>
 
-<sub>2007· España(Spain) · programmer, a commit at a time</sub>
+<sub> 2007  ·  España(Spain)  ·  programmer, a commit at a time </sub>
 
 </div>
 
