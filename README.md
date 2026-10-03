@@ -87,12 +87,6 @@ skills/
 ---
 
 <details open>
-<summary><code>$ git log --graph --activity</code></summary>
-<br>
-
-</details>
-
-<details open>
 <summary><code>$ cat mood.log</code></summary>
 <br>
 
