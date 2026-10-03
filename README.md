@@ -90,16 +90,6 @@ skills/
 <summary><code>$ git log --graph --activity</code></summary>
 <br>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=1a1a1a&line=1a1a1a&point=1a1a1a&area=false&hide_border=true&hide_title=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan64-07&bg_color=00000000&color=1a1a1a&line=1a1a1a&point=1a1a1a&area=false&hide_border=true&hide_title=true" alt="gráfico de actividad de GitHub de Khan64-07">
-</picture>
-
-</div>
-
 </details>
 
 <details open>
